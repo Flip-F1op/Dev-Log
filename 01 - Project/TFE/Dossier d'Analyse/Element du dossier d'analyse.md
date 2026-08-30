@@ -1,0 +1,22 @@
+Certains éléments peuvent ne pas être essentiel/intéressant au vu de mon projet, d'autres pourraient se rajouter à l'avenir
+
+- [ ] [[Résumé du projet]]
+- [ ] [[Objectifs du projet]]
+- [ ] Hors périmètre du projet
+- [ ] Glossaire
+- [ ] Liste des acteurs
+- [ ] Etude de l'existant
+- [ ] Analyse de la demande du client
+- [ ] User Stories
+- [ ] Demandes fonctionnelles
+- [ ] Demandes non fonctionnelles
+- [ ] Demandes techniques
+- [ ] Analyse Fonctionnelles (Use Case)
+- [ ] Analyse Technique
+	- [ ] Cas d'utilisation (UML)
+	- [ ] Modèle conceptuel de données
+	- [ ] Modèle physique de données
+	- [ ] Modélisation Technique
+	- [ ] Envrionnement de dev/test/prod
+- [ ] Gestion du projet (Planning etc)
+- [ ] Estimation des coûts

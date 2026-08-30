@@ -1,0 +1,47 @@
+D'un point de vue des fonctionnalités : 
+- Gestion de la collection
+	- Ajout de cartes à la collection, avec la possibilité d'indiquer : 
+		- L'état de la carte (Poor/Played/Light Played/Good/Excellent/Near Mint/Mint)
+		- Si la carte est gradée : 
+			- La note de la carte
+			- L'entreprise ayant gradé la carte 
+		- Sections "notes libres" liées à la carte
+			- Possibilité de rendre ces notes publiques ou de les laisser privées
+		- Possibilité d'indiquer si il s'agit d'une première édition de la carte
+		- Possibilité d'indiquer plusieurs altérations de la carte
+			- Misprint
+			- Miscut
+			- Misalignment
+			- Coins carrés
+			- Encrage additionnel
+			- Dos albinos
+			- Coins Alpha (MTG)
+			- Dos vide
+			- Double/Triple impression
+			- Double Impression, Dos Blanc
+			- Double Stamp
+			- Erreur de Pattern Holographique
+			- Mauvais Nom
+			- Dos Inversé
+		- En fonction du TCG, d'autres informations spécifique pourraient être ajoutée, par exemple le fait que la carte soit "reverse" pour Pokémon
+		- Graphique de la valeur de la carte
+	- Chaque exemplaire de la carte pourra avoir sa fiche sur le profil du collectionneur
+	- Possibilité de créer un classeur
+		- Un classeur peut contenir aussi bien des cartes déjà présentes dans la collection que des cartes qui n'ont pas encore été obtenue (possibilité pour l'utilisateur de pré-imaginer son classeur IRL)
+		- Plusieurs format de classeurs "standard" seront disponible
+			- 2x2
+			- 3x3
+			- 3x4
+			- 4x3
+		- Possibilité de choisir selon plusieurs vues pour visualiser le classeur
+			- Vue par page
+			- Vue par double page
+		- Possibilité de prévoir des "Espaces Vides" dans le classeur (Toujours dans cette idée de pré-imaginer son classeur, certains collectionneurs aimant insérer des images/stickers/petits objets/pages de gardes à la place de certains emplacement pour personnaliser et embellir leurs classeurs)
+		- Graphique permettant de suivre la valeur totale du classeur
+			- Pour les classeurs ayant des cartes qui ne sont pas encore possédée, possibilité d'avoir 2 graphiques 
+				- Un graphique de la valeur des cartes possédées
+				- Un graphique de la valeur des cartes manquantes
+	- 
+
+D'un point de vue technique : 
+- L'ajout d'extensions doit pouvoir se faire simplement (import via Json ?)

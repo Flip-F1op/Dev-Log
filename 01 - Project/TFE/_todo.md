@@ -1,0 +1,3 @@
+- [ ] chercher liste des entreprises de gradation
+- [ ] décider de comment le graphique de la valeur de la carte sera calculé (chercher la valeur sur une seule source, moyenne des sources etc)
+- [ ] 
