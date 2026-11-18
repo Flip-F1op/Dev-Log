@@ -5,8 +5,7 @@ Certains éléments peuvent ne pas être essentiel/intéressant au vu de mon pro
 - [ ] Hors périmètre du projet
 - [ ] Glossaire
 - [ ] Liste des acteurs
-- [ ] Etude de l'existant
-- [ ] Analyse de la demande du client
+- [ ] [[Etude de l'existant]]
 - [ ] User Stories
 - [ ] Demandes fonctionnelles
 - [ ] Demandes non fonctionnelles
